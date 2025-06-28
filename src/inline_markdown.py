@@ -1,4 +1,4 @@
-import re
+ire
 from textnode import TextNode, TextType
 
 
